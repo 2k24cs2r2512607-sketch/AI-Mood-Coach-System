@@ -1,0 +1,45 @@
+{
+    "Positive": {
+        "analysis": "Your words reflect high energy and a clear mind.",
+        "why_it_matters": "Being positive increases creativity.",
+        "deep_advice": "Tackle your hardest task now.",
+        "tasks": ["Write gratitude note", "Start project"],
+        "emoji": "🌟"
+    },
+    "Negative": {
+        "analysis": "You are carrying a heavy emotional load.",
+        "why_it_matters": "Negative emotions signal a need for reset.",
+        "deep_advice": "Physical movement shifts mental state.",
+        "tasks": [
+            "Try the 4-7-8 breathing technique: Inhale 4s, Hold 7s, Exhale 8s.",
+            "Cold water splash"
+        ],
+        "emoji": "🌿"
+    },
+    "Overloaded": {
+        "analysis": "Your brain is in 'Power Save' mode because of Sensory Overload.",
+        "why_it_matters": "Every 15-second video forces your brain to recalibrate focus.",
+        "science_tip": "High screen time increases stress hormones causing brain fog.",
+        "deep_advice": "You are not feeling less — you are overstimulated.",
+        "tasks": [
+            "Follow 20-20-20 Rule.",
+            "Hold an ice cube for sensory reset.",
+            "Turn phone to grayscale mode."
+        ],
+        "emoji": "⚡"
+    },
+    "Neutral": {
+        "analysis": "Your mood appears stable but unclear.",
+        "why_it_matters": "Neutral states are transition phases.",
+        "deep_advice": "Check in with yourself again later.",
+        "tasks": ["Take a short mindful pause."],
+        "emoji": "🌤"
+    },
+    "Mixed": {
+        "analysis": "You may be experiencing mixed emotions.",
+        "why_it_matters": "Emotional complexity is normal.",
+        "deep_advice": "Journal your thoughts for clarity.",
+        "tasks": ["Write what you’re feeling in 3 sentences."],
+        "emoji": "🔄"
+    }
+}
